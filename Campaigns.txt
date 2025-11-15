@@ -1,0 +1,15 @@
+CampaignID,CampaignName,CampaignStartDate,CampaignEndDate,Channel,Budget
+CMP-01,EQE Electric Launch,2023-02-15,2023-04-15,Social Media,50000
+CMP-02,C-Class Elegance,2023-03-01,2023-04-30,Search Ads,75000
+CMP-03,Summer SUV Showcase,2023-06-10,2023-08-10,Email,35000
+CMP-04,G-Class Adventure Ready,2023-09-05,2023-10-31,Video Ads,95000
+CMP-05,Holiday Sales Event,2023-11-15,2023-12-31,Display Ads,60000
+CMP-06,New Year New Ride,2024-01-05,2024-02-28,Social Media,55000
+CMP-07,S-Class Luxury Redefined,2024-03-20,2024-05-20,Search Ads,120000
+CMP-08,AMG Performance Tour,2024-04-15,2024-06-15,Video Ads,150000
+CMP-09,EQS Future Now,2024-07-01,2024-08-31,Social Media,85000
+CMP-10,Autumn GLC Special,2024-09-10,2024-11-10,Email,40000
+CMP-11,Winter A-Class Offer,2024-11-20,2025-01-15,Display Ads,45000
+CMP-12,Spring Forward Event,2025-02-20,2025-04-20,Search Ads,80000
+CMP-13,E-Class Business Drive,2025-05-01,2025-06-30,Social Media,65000
+CMP-14,The All-Electric Summer,2025-07-15,2025-09-15,Video Ads,110000

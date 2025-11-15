@@ -1,0 +1,30 @@
+File Name;Column Name;Description;Data Type
+Campaigns.txt;CampaignID;A unique ID for each marketing campaign.;Text
+;CampaignName;"The promotional name of the campaign (e.g., ""EQE Electric Launch"").";Text
+;CampaignStartDate;The date the campaign began.;Date
+;CampaignEndDate;The date the campaign ended.;Date
+;Channel;The digital channel used to run the campaign (e.g., 'Social Media').;Text
+;Budget;The total budget for the campaign in EUR (€).;Number
+Cars.txt;CarID;A unique ID for each specific car configuration.;Text
+;Model;"The commercial name of the car model (e.g., ""C-Class"").";Text
+;Class;The body style or class of the vehicle (e.g., 'Sedan', 'SUV').;Text
+;EngineType;The type of powertrain (e.g., 'Electric', 'Petrol').;Text
+;ModelYear;The year the model was released.;Number
+;MSRP;Manufacturer's Suggested Retail Price in EUR (€).;Number
+GA4_Traffic.csv;SessionID;A unique ID for each user session (visit) on the website.;Text
+;Date;The date the session occurred.;Date
+;CustomerID;The ID of the customer who visited the site.;Text
+;CampaignID;The campaign that brought the user to the site. (not set) for non-campaign traffic.;Text
+;Source;Where the traffic came from (e.g., google, facebook).;Text
+;Medium;The type of traffic (e.g., cpc for paid ads, organic for search).;Text
+;PageViews;The number of pages viewed during the session.;Number
+;EngagedSessions;Indicates if the session was meaningful. 1 = Yes, 0 = No.;Number
+;Conversion;Indicates if the user booked a test drive. 1 = Yes, 0 = No.;Number
+Sales.csv;SaleID;A unique ID for each individual vehicle sale.;Text
+;Date;The date the sale was finalized.;Date
+;CarID;The ID of the car that was sold.;Text
+;CustomerID;The ID of the customer who made the purchase.;Text
+;DealershipID;A unique identifier for the dealership.;Text
+;SalePrice;The final transaction price in EUR (€).;Number
+;LeadSource;The channel that generated the sales lead (e.g., 'Web-Campaign').;Text
+;CampaignID;The campaign ID if the sale is directly attributable. (not set) for other sources.;Text

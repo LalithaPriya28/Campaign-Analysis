@@ -1,0 +1,17 @@
+CarID,Model,Class,EngineType,ModelYear,MSRP
+CAR-001,C-Class,Sedan,Petrol,2023,55000
+CAR-002,C-Class,Sedan,Plug-in Hybrid,2023,62000
+CAR-003,E-Class,Sedan,Petrol,2023,75000
+CAR-004,S-Class,Sedan,Petrol,2024,115000
+CAR-005,S-Class,Sedan,Plug-in Hybrid,2024,125000
+CAR-006,A-Class,Hatchback,Petrol,2024,42000
+CAR-007,GLC,SUV,Petrol,2023,65000
+CAR-008,GLC,SUV,Plug-in Hybrid,2024,72000
+CAR-009,GLE,SUV,Petrol,2024,85000
+CAR-010,G-Class,SUV,Petrol,2023,140000
+CAR-011,EQE,Sedan,Electric,2023,88000
+CAR-012,EQS,Sedan,Electric,2024,130000
+CAR-013,EQC,SUV,Electric,2023,80000
+CAR-014,AMG GT,Coupe,Petrol,2024,150000
+CAR-015,E-Class,Sedan,Diesel,2023,77000
+CAR-016,GLE,SUV,Diesel,2024,88000
