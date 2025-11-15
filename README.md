@@ -12,9 +12,8 @@ Key Features
 6. Campaign Comparison View: Benchmark different campaigns against each other to identify high- and low-performing initiatives.
 
 File Structure
-.
-├── Campaign_Analysis_Dashboard.pbix   # Main Power BI dashboard
-└── README.md                          # Project documentation
+1. Campaign_Analysis_Dashboard.pbix   # Main Power BI dashboard
+2. README.md                          # Project documentation
 
 How to Use
 1. Open the .pbix file in Power BI Desktop.
